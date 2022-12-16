@@ -1,0 +1,1032 @@
+Uri: https://hyundai.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/chinh-sach-dieu-khoan/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\chinh-sach-dieu-khoan\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/chuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\chuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/chuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\chuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/chuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\chuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/chuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\chuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/danh-muc/danh-muc-1/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\danh-muc\danh-muc-1\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/danh-muc/danh-muc-1/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\danh-muc\danh-muc-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/dich-vu/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\dich-vu\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/hyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\hyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/mua-xe-tra-gop/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\mua-xe-tra-gop\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham-cua-chung-toi/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham-cua-chung-toi\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham-cua-chung-toi/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham-cua-chung-toi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/accent/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\accent\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/accent/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\accent\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/elantra-sport/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\elantra-sport\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/elantra-sport/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\elantra-sport\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/elantra/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\elantra\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/elantra/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\elantra\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/grand-i10-sedan/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\grand-i10-sedan\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/grand-i10-sedan/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\grand-i10-sedan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/grand-i10/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\grand-i10\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/grand-i10/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\grand-i10\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/i20-active/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\i20-active\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/i20-active/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\i20-active\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/kona/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\kona\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/kona/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\kona\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/new-porter-150/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\new-porter-150\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/new-porter-150/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\new-porter-150\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/santafe/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\santafe\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/santafe/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\santafe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/solati/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\solati\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/solati/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\solati\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/tucson/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\tucson\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/san-pham/tucson/feed/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\san-pham\tucson\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hyundai.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/css/forms.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/css/l10n.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/css/login.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-admin/js/user-profile.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.svg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.svg
+Content Type: image/svg+xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.woff
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.woff
+Content Type: application/x-font-woff
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/utm-avobold.woff
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\utm-avobold.woff
+Content Type: application/x-font-woff
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/1231-1.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\1231-1.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/1b1-1.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\1b1-1.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/accent-2018.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\accent-2018.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/bg-ft-1400x288.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\bg-ft-1400x288.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/cropped-sss-180x180.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\cropped-sss-180x180.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/cropped-sss-192x192.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\cropped-sss-192x192.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/cropped-sss-32x32.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\cropped-sss-32x32.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/elantra-2018.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\elantra-2018.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/GRAND-I10-SEDAN1-2.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\GRAND-I10-SEDAN1-2.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/Hyundai-Elantra-Sport-do-thumbail.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\Hyundai-Elantra-Sport-do-thumbail.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/hyundai-santafe-2019-sp-thumb.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\hyundai-santafe-2019-sp-thumb.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/I20-ACTIVE1-1.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\I20-ACTIVE1-1.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/kona-2018.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\kona-2018.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/logo-510x71.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\logo-510x71.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/logo-768x107.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\logo-768x107.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/logo-800x112.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\logo-800x112.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/logo.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\logo.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/solati-1.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\solati-1.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-content/uploads/2019/05/vip.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2019\05\vip.png
+Content Type: image/png
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/css/buttons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://hyundai.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchinh-sach-dieu-khoan%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchinh-sach-dieu-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fdich-vu%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fdich-vu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fmua-xe-tra-gop%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fmua-xe-tra-gop%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Faccent%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Faccent%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra-sport%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra-sport%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10-sedan%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10-sedan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fi20-active%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fi20-active%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fkona%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fkona%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fnew-porter-150%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fnew-porter-150%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsantafe%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsantafe%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsolati%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsolati%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Ftucson%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Ftucson%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhyundai.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/180
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\180
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/183
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\183
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/185
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\185
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/189
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\189
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/192
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\192
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/posts/131
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\posts\131
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/posts/135
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\posts\135
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/posts/139
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\posts\139
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/posts/146
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\posts\146
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/posts/151
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\posts\151
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/101
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\101
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/105
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\105
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/107
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\107
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/109
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\109
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/111
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\111
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/113
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\113
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/115
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\115
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/117
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\117
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/119
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\119
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/121
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\121
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product/99
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product\99
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fchinh-sach-dieu-khoan%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-22.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-19.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fchuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-20.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fdich-vu%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-4.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fgio-hang%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-6.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fgioi-thieu%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-17.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-3.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fhyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-18.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Flien-he%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-5.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fmua-xe-tra-gop%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-21.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Faccent%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-9.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-11.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Felantra-sport%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-14.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-7.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fgrand-i10-sedan%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-8.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fi20-active%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-10.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fkona%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-24.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fnew-porter-150%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-15.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsantafe%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-12.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Fsolati%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-16.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham%2Ftucson%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-13.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Fsan-pham-cua-chung-toi%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/wp-login.php?redirect_to=https:%2F%2Fhyundai.webtudong8giay.com%2Fwp-admin%2Fcustomize.php%3Furl%3Dhttps:%2F%2Fhyundai.webtudong8giay.com%2Ftai-khoan%2F%26autofocus%255Bsection%255D%3Dmenu_locations&reauth=1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-login.php-23.html
+Content Type: text/html
+
+Uri: https://hyundai.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://hyundaihatinh.net/wp-content/uploads/2018/07/dong-co-1.jpg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2018\07\dong-co-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hyundaihatinh.net/wp-content/uploads/2018/07/dong-co.png
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\wp-content\uploads\2018\07\dong-co.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhyundai.webtudong8giay.com%252Fchuong-trinh-lai-thu-va-roadshow-xe-hyundai-tai-lao-cai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhyundai.webtudong8giay.com%252Fchuong-trinh-roadshow-gioi-thieu-xe-hyundai-tai-ha-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhyundai.webtudong8giay.com%252Fhyundai-accent-se-co-them-2-trang-bi-moi-o-phien-ban-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhyundai.webtudong8giay.com%252Fhyundai-elantra-va-tucson-2019-chinh-thuc-ra-mat-tai-viet-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhyundai.webtudong8giay.com%252Fhyundai-kona-electric-ra-mat-thi-truong-dong-nam-a-tai-bangkok-motor-show-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://static.danhgiaxe.com/files/1280x/hyundai-i20-active-hyundai-i20-active-2017-20-bwi5U8lklx.jpg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\files\1280x\hyundai-i20-active-hyundai-i20-active-2017-20-bwi5U8lklx.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/nen-admin.jpg
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\web-builder\assets\login\nen-admin.jpg
+Content Type: image/jpeg
+
+Uri: https://webtudong8giay.com/web-builder/assets/login/style.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hyundai.webtudong8giay.com\web-builder\assets\login\style.css
+Content Type: text/css
+
